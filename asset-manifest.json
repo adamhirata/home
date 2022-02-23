@@ -1,0 +1,43 @@
+{
+  "files": {
+    "app.js": "/home/static/js/app.f8d21da7.chunk.js",
+    "app.js.map": "/home/static/js/app.f8d21da7.chunk.js.map",
+    "runtime~app.js": "/home/static/js/runtime~app.99cc7eb9.js",
+    "runtime~app.js.map": "/home/static/js/runtime~app.99cc7eb9.js.map",
+    "static/js/2.8ae735b7.chunk.js": "/home/static/js/2.8ae735b7.chunk.js",
+    "static/js/2.8ae735b7.chunk.js.map": "/home/static/js/2.8ae735b7.chunk.js.map",
+    "static/js/3.bba51ba9.chunk.js": "/home/static/js/3.bba51ba9.chunk.js",
+    "static/js/3.bba51ba9.chunk.js.map": "/home/static/js/3.bba51ba9.chunk.js.map",
+    "fonts/SSBM.otf": "/home/./fonts/SSBM.otf",
+    "fonts/amakara.ttf": "/home/./fonts/amakara.ttf",
+    "favicon-16.png": "/home/favicon-16.png",
+    "favicon-32.png": "/home/favicon-32.png",
+    "favicon.ico": "/home/favicon.ico",
+    "index.html": "/home/index.html",
+    "manifest.json": "/home/manifest.json",
+    "serve.json": "/home/serve.json",
+    "static/js/2.8ae735b7.chunk.js.LICENSE.txt": "/home/static/js/2.8ae735b7.chunk.js.LICENSE.txt",
+    "static/js/3.bba51ba9.chunk.js.LICENSE.txt": "/home/static/js/3.bba51ba9.chunk.js.LICENSE.txt",
+    "static/media/2.png": "/home/static/media/2.3c3883a6.png",
+    "static/media/avatar.png": "/home/static/media/avatar.3aaa0402.png",
+    "static/media/backArrow.png": "/home/static/media/backArrow.8d837e38.png",
+    "static/media/bgBase.png": "/home/static/media/bgBase.0c76986f.png",
+    "static/media/cancel.mp3": "/home/static/media/cancel.c26308f2.mp3",
+    "static/media/colorCont.png": "/home/static/media/colorCont.517f9a49.png",
+    "static/media/communication.png": "/home/static/media/communication.3b4b114c.png",
+    "static/media/enter.mp3": "/home/static/media/enter.44541d2d.mp3",
+    "static/media/gaming.png": "/home/static/media/gaming.ec05e9ff.png",
+    "static/media/gh.png": "/home/static/media/gh.8a47bb50.png",
+    "static/media/hover.mp3": "/home/static/media/hover.e75596fd.mp3",
+    "static/media/imageCont.png": "/home/static/media/imageCont.ff053035.png",
+    "static/media/lin.png": "/home/static/media/lin.777dbe08.png",
+    "static/media/resolve.png": "/home/static/media/resolve.8a9364f1.png",
+    "static/media/test1.png": "/home/static/media/test1.a7f4b347.png",
+    "static/media/yt.png": "/home/static/media/yt.32e564d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.99cc7eb9.js",
+    "static/js/2.8ae735b7.chunk.js",
+    "static/js/app.f8d21da7.chunk.js"
+  ]
+}
